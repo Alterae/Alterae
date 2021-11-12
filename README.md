@@ -1,21 +1,11 @@
-Michelle, she/her or they/them
+hailing from the unending sunless deserts only found in dreams
 
-I do many things sporadically.  Sometimes I write code.  Sometimes that code is useful.
-
-**Languages I actually use:**
-- C#
-- GDScript
-- JavaScript / HTML / CSS
-- TypeScript
-
-**Languages I like, but don't use:**
-- Go
+**languages:**
 - Rust
+- Typescript
+- GDScript
 
-**Languages I know, but am not a fan of:**
-- Python
-
-<!---
-Alterae/Alterae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**things i make:**
+- games
+- discord bots
+- the occasional web page
