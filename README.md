@@ -1,11 +1,9 @@
-hailing from the unending sunless deserts only found in dreams
+# hello, world!
 
-**languages:**
-- Rust
-- Typescript
-- GDScript
+i'm alterae, and this is my github. i like making things and sometimes i actually do so
 
-**things i make:**
-- games
-- discord bots
-- the occasional web page
+pronouns: she/her or they/them
+
+links:
+- [sourcehut](https://sr.ht/~alterae)
+- [itch.io](https://alterae.itch.io)
