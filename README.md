@@ -2,7 +2,7 @@
 
 i'm alterae, and this is my github. i like making things and sometimes i actually do so
 
-pronouns: she/her or they/them
+**pronouns:** she/her or they/them
 
 links:
 - [sourcehut](https://sr.ht/~alterae)
